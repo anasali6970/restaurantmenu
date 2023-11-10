@@ -1,0 +1,16 @@
+     body{
+    background-color:chocolate;
+}
+h1{
+    color: mintcream;
+    text-align: center;
+    font-family: serif;
+    font-size: 20px;
+}
+table,td,th {
+ border: 1px solid black;
+}
+table{
+ border-collapse: collapse;
+ width: 100%;
+}
